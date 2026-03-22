@@ -1,0 +1,5 @@
+{
+  "name": "Universal Functional Motif Mapper",
+  "description": "A computational research platform for identifying and characterizing conserved functional motifs across microbial systems, prioritizing functional conservation over sequence similarity.",
+  "requestFramePermissions": []
+}
